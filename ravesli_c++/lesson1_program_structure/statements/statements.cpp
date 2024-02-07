@@ -3,5 +3,5 @@
 int main() {
     int x;
     x = 5;
-    std::cout << x;
+    std::cout << x << std::endl;
 }
