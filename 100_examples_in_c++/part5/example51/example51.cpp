@@ -12,7 +12,6 @@ int main() {
         }
     }
 
-
     std::cout << "Символ " << findCh << " встречается " << count << " раз.\n";
 
     return 0;
